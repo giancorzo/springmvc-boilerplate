@@ -1,0 +1,1 @@
+insert into usuarios (nombre,correo,password) values ('gian.corzo','gian.corzo@antartec.com','admin');
